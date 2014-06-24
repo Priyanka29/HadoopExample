@@ -1,3 +1,7 @@
+/*
+  Arthur: Priyanka29
+  Description: Find the Highest Sales of each Store.
+*/
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.FloatWritable;
 import org.apache.hadoop.io.IntWritable;
