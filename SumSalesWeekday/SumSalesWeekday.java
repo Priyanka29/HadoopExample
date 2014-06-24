@@ -1,3 +1,8 @@
+/*
+	Arthur: Priyanka29
+	Descritpion: MapReduce Program to find the sum of sales for each weekday.
+*/
+
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.FloatWritable;
