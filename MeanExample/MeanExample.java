@@ -1,3 +1,7 @@
+/*
+	Arthur: Priyanka29
+	Description: Find the mean of sales for Sunday
+*/
 import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.FloatWritable;
