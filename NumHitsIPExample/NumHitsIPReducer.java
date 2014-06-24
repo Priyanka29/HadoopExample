@@ -1,5 +1,5 @@
 /*
-  Arthur: Priyanka29
+  Author: Priyanka29
   Description: Number of Hits to Particular IP adress.
 */
 import java.io.IOException;
