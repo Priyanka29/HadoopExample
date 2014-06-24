@@ -1,3 +1,7 @@
+/*
+  Arthur: Priyanka29
+  Description: Find the Highest Sales of each Store.
+*/
 import java.io.IOException;
 import java.util.StringTokenizer;
 
