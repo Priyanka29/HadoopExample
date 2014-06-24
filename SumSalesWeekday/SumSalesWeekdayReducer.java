@@ -1,3 +1,7 @@
+/*
+	Arthur: Priyanka29
+	Descritpion: MapReduce Program to find the sum of sales for each weekday.
+*/
 import java.io.IOException;
 import javax.swing.text.html.HTMLDocument.Iterator;
 import org.apache.hadoop.io.FloatWritable;
