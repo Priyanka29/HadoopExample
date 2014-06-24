@@ -1,3 +1,7 @@
+/*
+  Arthur: Priyanka29
+  Description: Number of Hits to Particular IP adress.
+*/
 import java.io.IOException;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
