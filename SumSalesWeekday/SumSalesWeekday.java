@@ -1,5 +1,5 @@
 /*
-	Arthur: Priyanka29
+	Author: Priyanka29
 	Descritpion: MapReduce Program to find the sum of sales for each weekday.
 */
 
