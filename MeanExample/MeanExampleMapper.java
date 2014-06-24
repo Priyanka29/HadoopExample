@@ -1,3 +1,7 @@
+/*
+	Arthur: Priyanka29
+	Description: Find the mean of sales for Sunday
+*/
 import java.io.IOException;
 import java.text.DateFormat;
 import java.text.ParseException;
