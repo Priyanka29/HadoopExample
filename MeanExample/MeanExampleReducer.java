@@ -1,5 +1,5 @@
 /*
-	Arthur: Priyanka29
+	Author: Priyanka29
 	Description: Find the mean of sales for Sunday
 */
 import java.io.IOException;
