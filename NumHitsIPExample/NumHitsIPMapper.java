@@ -1,3 +1,7 @@
+/*
+  Arthur: Priyanka29
+  Description: Number of Hits to Particular IP adress.
+*/
 import java.io.IOException;
 import java.util.StringTokenizer;
 import java.util.regex.Matcher;
@@ -14,7 +18,7 @@ public class NumHitsIPMapper
   @Override
   public void map(LongWritable key, Text value, Context context)
       throws IOException, InterruptedException {
-	  Pattern pattern = Pattern.compile("(10.99.99.186)",Pattern.CASE_INSENSITIVE);
+	  Pattern pattern = Pattern.compile("(XX.XX.XX.XXX)",Pattern.CASE_INSENSITIVE);
 	  Matcher matcher = pattern.matcher(value.toString());
 		while (matcher.find()) {
 			context.write(new Text(matcher.group(0)),new IntWritable(1) );
