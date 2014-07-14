@@ -1,3 +1,7 @@
+/*
+	Author: Priyanka29
+	Description: Find the mean of sales for Sunday
+*/
 import java.io.IOException;
 import javax.swing.text.html.HTMLDocument.Iterator;
 import org.apache.hadoop.io.FloatWritable;
