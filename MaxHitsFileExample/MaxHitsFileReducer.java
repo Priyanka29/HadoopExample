@@ -1,5 +1,5 @@
 /*
-    Arthur : Priyanka29
+    Author : Priyanka29
     Description: Map Reduce Program to Find the Max Hit File From the Apache Log
 */
 import java.io.IOException;
